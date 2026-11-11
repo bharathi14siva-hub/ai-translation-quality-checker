@@ -1,0 +1,12 @@
+{
+    "original_text": "I will attend the meeting tomorrow.",
+    "source_language": "english",
+    "target_language": "french",
+    "translated_text": "J'assisterai à la réunion demain.",
+    "back_translated_text": "I will attend the meeting tomorrow.",
+    "quality_score": 100.0,
+    "confidence_level": "High",
+    "meaning_preserved": true,
+    "warnings": [],
+    "feedback": "The back-translated text is identical to the original text in every aspect, including meaning, details, tone, and intent. Perfect preservation."
+}
